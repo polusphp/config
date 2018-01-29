@@ -1,0 +1,19 @@
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+#phpstrom
+.idea
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+
+### Composer ###
+vendor/
+composer.lock

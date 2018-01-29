@@ -1,0 +1,22 @@
+{
+    "name": "polus/config",
+    "description": "interface for polus",
+    "homepage": "https://github.com/polusphp/polus-interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Sundqvist",
+            "email": "andreas@forme.se"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "psr/container": "^1.0",
+        "polus/polus-interface": "~1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Polus\\Polus_Interface\\": "src/"
+        }
+    }
+}
