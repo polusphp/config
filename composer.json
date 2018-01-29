@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Polus\\Polus_Interface\\": "src/"
+            "Polus\\Config\\": "src/"
         }
     }
 }
