@@ -3,6 +3,7 @@ declare(strict_types=1);
 
 namespace Polus\Config;
 
+use Aura\Di\Container;
 use Aura\Di\ContainerConfigInterface;
 use Polus\Polus_Interface\ConfigInterface;
 

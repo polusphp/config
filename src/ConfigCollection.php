@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace Polus\Config;
 
 use Aura\Di\ConfigCollection as AuraConfigCollection;
+use Aura\Di\ContainerConfigInterface;
 use Polus\Polus_Interface\ConfigInterface;
 
 class ConfigCollection extends AuraConfigCollection
